@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="xmlplaylist.css"?>
+
+ <playlist>
+	<heading>XML Practice</heading>
+	<song>
+		<title>1. New Light</title>
+		<artist>John Mayer</artist>
+		<genre>Pop</genre>
+		<releaseyear>2018</releaseyear>
+		<description>Fresh and catchy feel-good song with an 80s twist. 
+		Listened to it almost every day of Summer 2018.</description>
+	</song>
+	<song>
+		<title>2. September</title>
+		<artist>Earth, Wind &#38; Fire</artist>
+		<genre>Disco, Classic Soul</genre>
+		<releaseyear>1978</releaseyear>
+		<description>For a long time I thought the lyrics were "Do you remember the very first night of September" 
+		but that is wrong. My sincerest apologies. Happy Septmeber 21st.</description>
+	</song>
+	<song>
+		<title>3. Inspiration</title>
+		<artist>Gipsy Kings</artist>
+		<genre>Catalan rumba</genre>
+		<releaseyear>1988</releaseyear>
+		<description>A favorite of my parents and now one of my favorites. 
+		Blends traditional flamenco styles with Western pop and Latin rhythms.
+		</description>
+	</song>
+	<song>
+		<title>4. Mr. Blue Sky</title>
+		<artist>Electric Light Orchestra</artist>
+		<genre>Rock</genre>
+		<releaseyear>1977</releaseyear>
+		<description>A timeless classic, "Mr. Blue Sky" peaked at number 6 in the UK Singles Chart and number 35 in the US Billboard Charts.
+		</description>
+	</song>
+	<song>
+		<title>5. Last Day...</title>
+		<artist>Shallou</artist>
+		<genre>Electric/Dance</genre>
+		<releaseyear>2017</releaseyear>
+		<description>There are no lyrics to this song. Combines ambient noises with soulful vocals for a perfect song to relax and enjoy nature.
+		</description>
+	</song>
+	<song>
+		<title>6. Ratatouille Main Theme</title>
+		<artist>Michael Giacchino</artist>
+		<genre>Score</genre>
+		<releaseyear>2007</releaseyear>
+		<description>The main theme song for the film Ratatouille (one of my favorites) 
+		which follows the adventures of Remy, a rat, who dreams of becoming a chef and Linguini, 
+		a Parisian restaurant's garbage boy.
+		</description>
+	</song>
+	<song>
+		<title>Mountain Sound</title>
+		<artist>Of Monsters and Men</artist>
+		<genre>Alternative/Indie</genre>
+		<releaseyear>2011</releaseyear>
+		<description>Released by the Icelandic indie folk/indie pop band Of Monsters and Men. 
+		A calming and happy song.
+		</description>
+	</song>
+	<song>
+		<title>8. Cold Cold Man</title>
+		<artist>Saint Motel</artist>
+		<genre>Alternative/Indie</genre>
+		<releaseyear>2014</releaseyear>
+		<description>The second most popular song off of the My Type EP that features upbeat instrumentals.
+		</description>
+	</song>
+	<song>
+		<title>9. The Middle</title>
+		<artist>Jimmy Eat World</artist>
+		<genre>Rock</genre>
+		<releaseyear>2001</releaseyear>
+		<description>A breakthrough hit for Jimmy Eat World and a number 5 hit on the US Billnoard Hot 100 in 2002.
+		</description>
+	</song>
+	<song>
+		<title>10. Cruise</title>
+		<artist>Florida Georgia Line</artist>
+		<genre>Country, Contemporary country</genre>
+		<releaseyear>2012</releaseyear>
+		<description>"Cruise" is the considered the foremost example of "bro-country", a subgenre of 
+		country music that is influenced by 21st century hip hop, hard rock and electronica. 
+		</description>
+	</song>
+</playlist>

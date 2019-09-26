@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+heading{
+	 color: #F2B9C9;
+	 font-size: 30px;
+	 letter-spacing:4px;
+	 }
+ 
+ playlist{
+	 background-color:#535E6E;
+	 white-space: pre-wrap;
+ }
+ 
+ artist, title, genre, releaseyear, description{
+	 text-align: center;
+ }
+ 
+title{
+	 color: #B99A7B;
+	 font-weight:light;
+	 font-size: 25px;
+	 text-decoration:underline;
+	 letter-spacing:3px;
+ }
+ 
+artist, genre, releaseyear, description{
+	 font-family: arial, helvetica;
+	 color: #D6E4E1;
+	 letter-spacing:1.2px;
+ }
+ 
